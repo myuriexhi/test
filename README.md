@@ -1,5 +1,6 @@
 # test
 # git config
+used to set Git configuration values on a global or local project level
 # git init        
 Initialize a local Git repository
 # git clone
